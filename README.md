@@ -1,1 +1,2 @@
-computer science is best 
+computer science is best
+and its easy  
