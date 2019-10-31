@@ -1,0 +1,168 @@
+    1  ls
+    2  pwd
+    3  mkdir sambo
+    4  pwd
+    5  ls
+    6  man
+    7  man ls
+    8  rmdir sambo
+    9  ls
+   10  pwd
+   11  mkdir workspace
+   12  cd workspace
+   13  LS
+   14  ls
+   15  touch README.md
+   16  C
+   17  cp README.md CHANGELOG.md
+   18  touch exercise.md
+   19  mkdir temp
+   20  mv exercise.md temp/
+   21  rm temp/exercise.md
+   22  ls
+   23  touch exercise.md
+   24  mv exercise.md temp/
+   25  cd temp
+   26  ls
+   27  rm temp/exercise.md
+   28  cd ~
+   29  rm temp/exercise.md
+   30  cd temp
+   31  ls
+   32  touch umuzi.md recruits.md cohort.md
+   33  echo "a poem about MUB... IT WAS LIT." > umuzi.md recruits.md cohort
+   34  echo "take me to church" > umuzi.md
+   35  echo "once i was 7 years old" > recruits.md
+   36  echo " once i was 20 yee
+   37  q
+   38  pwd
+   39  echo "once i was 20 years old my story got told" > cohort.md
+   40  less umuzi.md
+   41  less recruit.md
+   42  less recruits.md
+   43  less cohort.md
+   44  touch summary.md
+   45  cat umuzi.md > summary.md
+   46  cat recruits.md > summary.md
+   47  cat cohort.md >> summary.md
+   48  cat umuzi.md >> summary.md
+   49  echo " The end " >> summary.md
+   50  locate umuzi
+   51  locate umuzi.md
+   52  locate umuzi
+   53  sudo updatedb
+   54  locate umuzi
+   55  locate umuzi >> search_results.md
+   56  cd documents
+   57  cd Documents
+   58  touch pad.md
+   59  cd Desktop
+   60  cd `
+   61  cd Desktop
+   62  mkdir work
+   63  cp Documents/pad.md pad_copy.md
+   64  touch pad_copy.md
+   65  cp Documents/pad.md pad_copy.md
+   66  cp ~/Documentse/pad.md pad_copy.md
+   67  cd ~/recruit/d
+   68  cd ~/Documents/pad.md .
+   69  d ../Documents/pad.md
+   70  cp ../Documents/pad.md pad_copy.md
+   71  locate updatedb
+   72  locate pad_copy.md
+   73  ls
+   74  locate pad_copy.md
+   75  sudo updatedb
+   76  locate pad_copy.md
+   77  tree -a GFG
+   78  sudo snap install tree
+   79  tree -a GFG
+   80  find ./GFG -name *.txt
+   81  find -name *.txt
+   82  find -name *.pdf
+   83  find -name *.pdf >> cohort.md
+   84  find -newer
+   85  fine -newer file
+   86  find -newer file
+   87  find man
+   88  man find
+   89  fine -newer ~
+   90  find -newer ~
+   91  ls -al --time-style=+%D | grep 'date +%D'
+   92  nano my_bio.md
+   93  mkdir git-basic-exercise
+   94  cd git-basic-exercise
+   95  ls -a
+   96  git init
+   97  sudo apt install git
+   98  git init
+   99  clear
+  100  git status
+  101  touch README.md
+  102  ls -a
+  103  git status
+  104  git log
+  105  clear
+  106  git add README.md
+  107  git status
+  108  git commit -m "initial commit"
+  109  git status
+  110  git config --global user.email "ofentsesambo@gmail.com"
+  111  git commit -m "initial commit"
+  112  git log
+  113  q
+  114  sudo snap install q
+  115  sudo apt install python-q-text-as-data
+  116  q
+  117  -q
+  118  q
+  119  queit
+  120  mkdir git-basic-exercises
+  121  cd git-basic-exercises
+  122  ls -a
+  123  git init
+  124  ls -a
+  125  git status
+  126  touch README.md
+  127  ls -a
+  128  git status
+  129  clear
+  130  git add README.md 
+  131  git status
+  132  git rm --cached README.md
+  133  git status
+  134  clear
+  135  git commit -m "initial commit"
+  136  git add README.md
+  137  git commit -m "initial commit"
+  138  git log
+  139  q
+  140  nano README.md
+  141  y
+  142  nano README.md
+  143  cat README.md
+  144  git stats
+  145  git status
+  146  cd git-basic-exercises
+  147  nano README.md
+  148  cat README.md
+  149  git status
+  150  ping 8.8.8.8.
+  151  ls
+  152  cd git-basic-exercises
+  153  git checkout master
+  154  git log
+  155  clear
+  156  git checkout milkshake-flavours
+  157  ls
+  158  git log
+  159  clear
+  160  git checkout history
+  161  ls
+  162  git log
+  163  clear
+  164  git branch history
+  165  git checkout history
+  166  git log
+  167  clear
+  168  history > history.txt
