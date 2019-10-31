@@ -1,2 +1,1 @@
-computer science is best
-and its easy  
+# git-basic-exercises

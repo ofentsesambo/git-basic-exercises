@@ -147,6 +147,7 @@
   147  nano README.md
   148  cat README.md
   149  git status
+<<<<<<< HEAD
   150  ls
   151  cd git-basic-exercises
   152  git commit -m "second commit"
@@ -198,3 +199,24 @@
   198  git branch history
   199  git log
   200  history > history.txt
+=======
+  150  ping 8.8.8.8.
+  151  ls
+  152  cd git-basic-exercises
+  153  git checkout master
+  154  git log
+  155  clear
+  156  git checkout milkshake-flavours
+  157  ls
+  158  git log
+  159  clear
+  160  git checkout history
+  161  ls
+  162  git log
+  163  clear
+  164  git branch history
+  165  git checkout history
+  166  git log
+  167  clear
+  168  history > history.txt
+>>>>>>> history
